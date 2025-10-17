@@ -20,6 +20,7 @@
     "method-override": "^3.0.0"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "nodemon": "^3.1.10"
   },
   "homepage": "https://goodcode2000.github.io/portfolio"
