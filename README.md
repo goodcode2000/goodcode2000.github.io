@@ -7,8 +7,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 [![forthebadge](https://forthebadge.com/images/badges/validated-html5.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-![JQuery](https://github.com/Anunay-Anand/Portfolio/blob/master/jquery.svg?raw=true)
-![Express](https://github.com/Anunay-Anand/Portfolio/blob/master/express-valid.svg?raw=true)
+![JQuery](https://github.com/goodcode2000/Portfolio/blob/master/jquery.svg?raw=true)
+![Express](https://github.com/goodcode2000/Portfolio/blob/master/express-valid.svg?raw=true)
 
 
 Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
@@ -18,7 +18,7 @@ Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JS
 
 ## 📬 Contact
 If you want to contact me, you can reach me through below handles.
-<a href="https://www.linkedin.com/in/anunay-anand/"><br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/Kollin Kojima/"><br><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   
 
 © 2021 Anunay Anand

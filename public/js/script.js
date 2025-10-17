@@ -48,7 +48,7 @@ $(document).ready(function () {
 //If focus if off the tab (visibility State)
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Anunay Anand";
+    document.title = "Portfolio | Kollin Kojima";
     $("#favicon").attr("href", "/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
