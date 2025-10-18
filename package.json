@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js",
+    "start": "nodemon app.js",
     "build": "react-scripts build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
@@ -14,9 +14,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.10",
     "ejs-mate": "^4.0.0",
-    "express": "^4.17.1",
+    "express": "^4.21.2",
+    "express-ejs-layouts": "^2.5.1",
     "method-override": "^3.0.0"
   },
   "devDependencies": {
